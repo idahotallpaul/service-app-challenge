@@ -1,4 +1,4 @@
-# Swiftly SWAPI
+# Lithia Service App Challenge
 
 This is a demo project for a job application to Lithia.
 
